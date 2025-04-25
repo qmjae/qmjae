@@ -1,7 +1,7 @@
 <img src="banner.png" alt="GitHub Banner" width="100%" />
 
 # Hi! I'm Mj Ejercito! 
-👨🏼‍🎓 Studying BS in Computer Engineering, specializing in System Administration at Technological Institute of the Philippines - Quezon City<br>👨🏼‍💻 Intern at Meralco Industrial Engineering Services Corporation (MIESCOR) <br>
+👨🏼‍🎓 Studying BS in Computer Engineering, specializing in System Administration at Technological Institute of the Philippines - Quezon City
 
 
 # 💻 Technologies:
